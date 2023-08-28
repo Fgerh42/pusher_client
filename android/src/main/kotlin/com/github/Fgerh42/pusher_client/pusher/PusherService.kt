@@ -1,9 +1,9 @@
 package com.github.Fgerh42.pusher_client.pusher
 
 import android.util.Log
-import com.github.chinloyal.pusher_client.core.contracts.MChannel
-import com.github.chinloyal.pusher_client.core.utils.JsonEncodedConnectionFactory
-import com.github.chinloyal.pusher_client.pusher.listeners.*
+import com.github.Fgerh42.pusher_client.core.contracts.MChannel
+import com.github.Fgerh42.pusher_client.core.utils.JsonEncodedConnectionFactory
+import com.github.Fgerh42.pusher_client.pusher.listeners.*
 import com.google.gson.Gson
 import com.pusher.client.Pusher
 import com.pusher.client.PusherOptions
