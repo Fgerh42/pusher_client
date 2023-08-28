@@ -1,4 +1,4 @@
-package com.github.chinloyal.pusher_client.pusher
+package com.github.Fgerh42.pusher_client.pusher
 
 import android.util.Log
 import com.github.chinloyal.pusher_client.core.contracts.MChannel
