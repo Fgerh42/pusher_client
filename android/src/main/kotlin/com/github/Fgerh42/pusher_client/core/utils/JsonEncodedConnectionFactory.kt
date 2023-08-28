@@ -1,4 +1,4 @@
-package com.github.chinloyal.pusher_client.core.utils
+package com.github.Fgerh42.pusher_client.core.utils
 
 import com.pusher.client.util.ConnectionFactory
 import org.json.JSONObject
