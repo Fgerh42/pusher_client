@@ -1,4 +1,4 @@
-package com.github.chinloyal.pusher_client.pusher.listeners
+package com.github.Fgerh42.pusher_client.pusher.listeners
 
 import com.github.Fgerh42.pusher_client.core.utils.Constants
 import com.github.Fgerh42.pusher_client.pusher.PusherService
