@@ -1,4 +1,4 @@
-package com.github.chinloyal.pusher_client.core.utils
+package com.github.Fgerh42.pusher_client.core.utils
 
 enum class Constants(val value: String) {
     CONNECTION_ESTABLISHED("pusher:connection_established"),
